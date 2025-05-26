@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+dev+in+progress...;SDE+2025+dreaming+big!;Building+PlantPal+🌱;Clean+Calm+Code+or+maybe+being+cool!)
 
-> _“If it doesn't challenge you, it won't change you.”_
+> _“Calm is Conductive to Creativity.”_
 
 ---
 
