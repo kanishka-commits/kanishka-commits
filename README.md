@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kanishka — welcome to my GitHub jungle! 🌿
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+dev+in+progress...;SDE+2025+dreaming+big!;Building+PlantPal+🌱;Clean+Calm+Code+or+maybe+being+cool!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+dev+in+progress...;SDE+2025+dreaming+big!;Building+PlantPal+🌱;Clean+Calm+Code+and+being+cool!)
 
 > _“Calm is Conductive to Creativity.”_
 
