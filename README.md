@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Who am I?
 - 🎓 CS undergrad with a passion for products and problem-solving
-- 🚀 Building **PlantPal** — a web app to help you keep your plants happy and hydrated
+- 🚀 Building **Thirsty-Pots** — a web app to help you keep your plants happy and hydrated
 - 📚 Grinding DSA, Front-end Dev
 - ✍️ Storytelling meets tech on [LinkedIn](https://www.linkedin.com/in/kanishka03p)
 - 🌐 Explore everything I do: [bento.me/kanishka03p](https://bento.me/kanishka03p)
@@ -25,8 +25,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kanishka-commits&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://getmechai.vercel.app/link.html?vpa=kaniishkaa03@ybl&nm=Kanishka&amt=10%20) 
+  ## 🧡 Fuel my Coding with Coffee
+  [![BuyMeACoffee](https://buymeacoffee.com/kanishka03p) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanishka-commits/kanishka-commits/output/github-snake-dark.svg" />
