@@ -1,7 +1,8 @@
-# 👋 Hey, I'm Kanishka — welcome to my GitHub jungle! 🌿
+# 👋 Hey, I'm Kanishka — Welcome to my Code-Club 🪩
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+dev+in+progress...;SDE+2025+dreaming+big!;Building+PlantPal+🌱;Clean+Calm+Code+and+being+cool!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Dev+in+progress...;Future+SDE+2026+locked+and+loading!;Crafting+Thirsty-Pots+🌱;Clean+Calm+Code+and+being+Cool!)
 
+### Would want to know my notion?  
 > _“Calm is Conductive to Creativity.”_
 
 ---
