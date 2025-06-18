@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Dev+in+progress...;Future+SDE+2026+locked+and+loading!;Crafting+Thirsty-Pots+🌱;Clean+Calm+Code+and+being+Cool!)
 
-### Would want to know my notion?  
+### Would you want to know my notion?  
 > _“Calm is Conductive to Creativity.”_
 
 ---
