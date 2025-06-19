@@ -1,11 +1,7 @@
-<p align="center">
-  <h1>👋 Hey, I'm Kanishka — Welcome to my Code-Club 🪩</h1>
-</p>
+#👋 Hey, I'm Kanishka — Welcome to my Code-Club 🪩
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=>>>>+Full-Stack+Dev+in+progress+<<<<;>>>>+Future+SDE+2026+locked+and+loading!+<<<<;>>>>+Crafting+Thirsty-Pots+🌱+<<<<;>>>>+Clean+Calm+Code+and+being+Cool!+<<<<" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Dev+in+progress...;Future+SDE+2026+locked+and+loading!;Crafting+Thirsty-Pots+🌱;Clean+Calm+Code+and+being+Cool!)" 
 
 
 ### Would you want to know my notion?  
@@ -25,9 +21,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishka03p) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kanishka03p) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishka03p@gmail.com) 
 
-<p align="center">
-  <b>💻 Tech Stack:</b>
-</p>
+# 💻 Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
