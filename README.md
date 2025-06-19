@@ -26,7 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
   ## 🧡 Fuel my Coding with Caffeine
-  [![BuyMeACoffee](https://buymeacoffee.com/kanishka03p)]
+ [![Buy Me a Chai](https://img.shields.io/badge/Buy%20Me%20a%20Chai-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/kanishka03p)]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanishka-commits/kanishka-commits/output/github-snake-dark.svg" />
