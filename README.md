@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kanishka — Welcome to my Code-Club 🪩
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Dev+in+progress...;Future+SDE+2026+locked+and+loading!;Crafting+Thirsty-Pots+🌱;Clean+Calm+Code+and+being+Cool!)" 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Dev+in+progress...;Future+SDE+2026+locked+and+loading!;Crafting+Thirsty-Pots+🌱;Clean+Calm+Code+and+being+Cool!)
 
 
 ### Would you want to know my notion?  
