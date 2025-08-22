@@ -57,6 +57,36 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
+# 🪶 GSSoc'25 Badges
+
+<div style='display:flex; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div>
+
+<div style="text-align: center;">
+  <h3>Connect with Me</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 10px;">
+    <a href="https://linkedin.com/in/kanishka03p/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/></a>
+    <a href="https://github.com/kanishka-commits" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="48" height="48"/></a>
+    <a href="https://x.com/kanishka03p" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" width="48" height="48"/></a>
+    <a href="https://www.instagram.com/imnotkaniishka" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="48" height="48"/></a>
+    <a href="mailto:kanishka03p@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="48" height="48"/></a>
+    <a href="https://linktr.ee/kanishka03p" target="_blank" rel="noopener noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" alt="Linktree" width="48" height="48"/></a>
+  </div>
+</div>
+
+
 ## 🧡 Fuel my Coding with Caffeine
  [![Buy Me a Chai](https://img.shields.io/badge/Buy%20Me%20a%20Chai-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/kanishka03p)
 
