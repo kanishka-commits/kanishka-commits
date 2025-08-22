@@ -68,12 +68,12 @@
 <div style="text-align: center;">
 
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 10px;">
-    <a href="https://linkedin.com/in/kanishka03p/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/></a>
-    <a href="https://github.com/kanishka-commits" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="48" height="48"/></a>
-    <a href="https://x.com/kanishka03p" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" width="48" height="48"/></a>
-    <a href="https://www.instagram.com/imnotkaniishka" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="48" height="48"/></a>
+    <a href="https://linkedin.com/in/kanishka03p/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/></a>
+    <a href="https://github.com/kanishka-commits"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="48" height="48"/></a>
+    <a href="https://x.com/kanishka03p"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" width="48" height="48"/></a>
+    <a href="https://www.instagram.com/imnotkaniishka"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="48" height="48"/></a>
     <a href="mailto:kanishka03p@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="48" height="48"/></a>
-    <a href="https://linktr.ee/kanishka03p" target="_blank" rel="noopener noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" alt="Linktree" width="48" height="48"/></a>
+    <a href="https://linktr.ee/kanishka03p"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" alt="Linktree" width="48" height="48"/></a>
   </div>
 </div>
 
