@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
-## 🪶 GSSoc'25 Badges
+## 🪶 GSSoC'25 Badges
 
 <div style='display:flex; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -68,7 +68,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
-## Hactoberfest'25 Badges
+## 🍁 Hactoberfest'25 Badges
 [![An image of @kanishkacommits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanishkacommits)](https://holopin.io/@kanishkacommits)
 
 ## 🌐 Socials:
