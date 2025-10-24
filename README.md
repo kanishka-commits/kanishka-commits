@@ -50,7 +50,8 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kanishka-commits&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /><br/>
+  <img src="https://komarev.com/ghpvc/?username=kanishka-commits&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## 🪶 GSSoC'25 Badges
