@@ -19,12 +19,14 @@
 
 ## ⭐ Achievements
 
-Fixed an official error in **LeetCode Problem #1752** — LeetCode accepted the correction & awarded **100 LeetCoins** 🐛\
+
 **CodeChef:** 3⭐ Coder (Rating: **1612**)  🧮 \
 **LeetCode:** Top **10%** (Rating: **1743**)  🧩 \
-\Solved **200+ DSA** problems across competitive platforms 📚\
+Solved **200+ DSA** problems across competitive platforms 📚\
 Ranked Top **3,000** nationwide — *Amazon ML Summer School ’25* 🧠\
-Top **1%** Open Source Contributor among 3,000+ participants — *GSSoC’25* 🌍 
+Top **1%** Open Source Contributor among 3,000+ participants — *GSSoC’25* 🌍 \
+Fixed an official error in **LeetCode Problem #1752** — awarded **100 LeetCoins** 🐛
+
 
 </div>
 
