@@ -9,12 +9,24 @@
 ---
 
 ## 🧑‍💻 Who am I?
-- 🎓 CS undergrad with a passion for products and problem-solving
-- 🚀 Building **Thirsty-Pots** — a web app to help you keep your plants happy and hydrated
-- 📚 Grinding DSA, Front-end Dev
-- ✍️ Storytelling meets tech on [LinkedIn](https://www.linkedin.com/in/kanishka03p)
-- 🌐 Explore everything I do: [bento.me/kanishka03p](https://bento.me/kanishka03p)
+🎓 CS undergrad with a passion for products and problem-solving \
+🚀 Building **Thirsty-Pots** — a web app to help you keep your plants happy and hydrated \
+📚 Grinding DSA, Front-end Dev \
+✍️ Storytelling meets tech on [LinkedIn](https://www.linkedin.com/in/kanishka03p) \
+🌐 Explore everything I do: [bento.me/kanishka03p](https://bento.me/kanishka03p) 
 
+<div align="right">
+
+## ⭐ Achievements
+
+🐛 Fixed an official error in **LeetCode Problem #1752** — LeetCode accepted the correction & awarded **100 LeetCoins**\
+🧮 **CodeChef:** 3⭐ Coder (Rating: **1612**)\
+🧩 **LeetCode:** Top **10%** (Rating: **1743**)\
+📚 Solved **200+ DSA** problems across competitive platforms\
+🧠 Ranked Top **3,000** nationwide — *Amazon ML Summer School ’25*\
+🌍 Top **1%** Open Source Contributor among 3,000+ participants — *GSSoC’25*
+
+</div>
 
 ## 💻 Tech Stack:
 
@@ -46,6 +58,9 @@
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+
+
+
 
 ## 📊 GitHub Stats:
 <p align="center">
